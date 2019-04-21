@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PriceCalculatorKata/PriceCalculator.Tests/bin/Debug/netcoreapp3.0
+/PriceCalculatorKata/PriceCalculator.Tests/obj
+/PriceCalculatorKata/PriceCalculatorKata/bin/Debug/netcoreapp3.0
+/PriceCalculatorKata/PriceCalculatorKata/obj
+*.user
+PriceCalculatorKata/.vs/PriceCalculatorKata/DesignTimeBuild/.dtbcache
+PriceCalculatorKata/.vs/PriceCalculatorKata/v16/.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
